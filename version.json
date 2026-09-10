@@ -1,1 +1,1 @@
-{"version":"1.1.0","url":"https://raw.githubusercontent.com/reytbjkfd2585/vocabgo-releases/main/vocabgo_1.1.0.apk","note":"v1.1.0：四页分离（账号/任务/运行/设置）、左右滑动切页、任务实时进度与分数、按任务单独停止/继续、性能与体验优化。","force":true}
+{"version":"1.1.1","url":"https://raw.githubusercontent.com/reytbjkfd2585/vocabgo-releases/main/vocabgo_1.1.1.apk","note":"v1.1.1：修复应用内更新下载完成后系统安装弹窗不出现的问题（PendingIntent 改为 MUTABLE）。","force":true}
